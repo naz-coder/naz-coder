@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naz-coder
+- 👋 Hi, I’m @naz-coder, your TechSiz.
 - 👀 I’m interested in Frontend (ReactJS, NextJS, and TypeScript), C, Backend(Ruby, and ExpressJS) and CMS (Shopify, Wix, and WordPress).
 - 🌱 I’m currently working on Trafap (a personal product to manage traffic problems).
 - 💞️ I’m looking to collaborate on any interesting Projects, Roles, Bug Fixes, as a Tech Instructor, and Gigs that would have me racking my brain and blowing :) your mind.
