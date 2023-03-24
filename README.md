@@ -4,6 +4,13 @@
 - 💞️ I’m looking to collaborate on any interesting Projects, Roles, Bug Fixes, as a Tech Instructor, and Gigs that would have me racking my brain and blowing 🤯 your mind.
 - 🔗 Ubuntu! I like to connect with you. Check my bio for my Social pages 💜💡
 - 📫 How to reach me: nazanajemba@gmail.com
+- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/favour-naza-anajemba-02a156196" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.twitter.com/TechSiz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://github.com/naz-coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/naz.codes/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
 
 <!---
 naz-coder/naz-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
