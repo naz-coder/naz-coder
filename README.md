@@ -1,3 +1,30 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/favour-naza-anajemba-02a156196">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/naz.codes/">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.twitter.com/TechSiz">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk0YTUzMC9wb2RjYXN0L3Jzcw==">
+    <img src="https://img.shields.io/badge/Anchor-purple?style=for-the-badge&logo=anchor&logoColor=white" alt="Anchor FM Badge"/>
+  </a>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=naz-coder&style=flat-square&color=blue" alt="Profile View"/>
+</div>
+
+<h1 align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  welcome to my page!
+</h1>
+
 - 👋 Hi, I’m @naz-coder, your TechSiz.
 - 👀 I’m interested in Frontend (ReactJS, NextJS, and TypeScript), C, Backend(Ruby, and ExpressJS) and CMS (Shopify, Wix, and WordPress).
 - 🌱 I’m currently working on Trafap (a product to manage traffic problems).
@@ -8,14 +35,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naz-coder&theme=shades-of-purple&mode=weekly&currStreakNum=EBEACA&fire=EB5454&currStreakLabel=EB5754)](https://git.io/streak-stats)
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naz-coder&theme=shades-of-purple&currStreakNum=EBEACA&fire=EB5454&currStreakLabel=EB5754)](https://git.io/streak-stats) -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.twitter.com/TechSiz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/favour-naza-anajemba-02a156196" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/naz.codes/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82Mzk0YTUzMC9wb2RjYXN0L3Jzcw==" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/anchor.svg" alt="" height="30" width="40" /></a>
-</p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
