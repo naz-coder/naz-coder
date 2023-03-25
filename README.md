@@ -18,13 +18,20 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=naz-coder&style=flat-square&color=blue" alt="Profile View"/>
 </div>
-
-<h1 align="center">
+<div align="center">
+<h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   welcome to my page!
 </h1>
+ </div>
+<div align="center">
+  <img src="https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=740&t=st=1679784364~exp=1679784964~hmac=b1acbb60c68f39b8447a2b2e6684fd4d3a69e0bae273f672c2b66d52a6c7ee99" width="800" height="400"/>
+</div>
 
+---
+
+:woman_technologist: Meet Me
 - 👋 Hi, I’m @naz-coder, your TechSiz.
 - 👀 I’m interested in Frontend (ReactJS, NextJS, and TypeScript), C, Backend(Ruby, and ExpressJS) and CMS (Shopify, Wix, and WordPress).
 - 🌱 I’m currently working on Trafap (a product to manage traffic problems).
