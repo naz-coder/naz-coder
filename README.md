@@ -9,8 +9,8 @@
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naz-coder&theme=shades-of-purple&currStreakNum=EBEACA&fire=EB5454&currStreakLabel=EB5754)](https://git.io/streak-stats) -->
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://www.twitter.com/TechSiz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/favour-naza-anajemba-02a156196" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/naz.codes/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
