@@ -80,11 +80,11 @@
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naz-coder&theme=shades-of-purple&mode=weekly&currStreakNum=EBEACA&fire=EB5454&currStreakLabel=EB5754)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naz-coder&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+                                   
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naz-coder&theme=shades-of-purple&mode=weekly&currStreakNum=EBEACA&fire=EB5454&currStreakLabel=EB5754)](https://git.io/streak-stats)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naz-coder&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+                   
+</div>           
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naz-coder&theme=shades-of-purple&currStreakNum=EBEACA&fire=EB5454&currStreakLabel=EB5754)](https://git.io/streak-stats) 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
