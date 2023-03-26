@@ -34,10 +34,9 @@
 ### :woman_technologist: Meet Me
 - 👋 Hi, I’m @naz-coder, your TechSiz.
 - I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<!-- - 👀 I’m interested in Frontend (ReactJS, NextJS, and TypeScript), C, Backend(Ruby, and ExpressJS) and CMS (Shopify, Wix, and WordPress). -->
 - 🌱 I’m currently working on some personal projects; Trafap (a product to manage traffic problems) and building a Biography website of the Legendary Afrobeat King, Fela.
 - 💞️ I’m looking to collaborate on any interesting Projects, Roles, Bug Fixes, as a Tech Instructor, and Gigs that would have me racking my brain and blowing 🤯 your mind.
-- 🔗 Ubuntu! I like to connect with you. Check above my Social pages 💜💡
+- 🔗 Ubuntu! I like to connect with you. Check above for my Social pages 💜💡
 - 📫 How to reach me <a href="mailto:nazanajemba@gmail.com/">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>      <a href="https://www.linkedin.com/in/favour-naza-anajemba-02a156196">
