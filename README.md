@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>  
 - :zap: In my free time, I solve problems on LeetCode, join Tech Spaces, read tech articles, or play Scrabble.
-- Website🌐 https://nazanajemba.vercel.app/
+- Website🌐 https://www.nazanajemba.com/
 
 ---
 
