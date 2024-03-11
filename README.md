@@ -34,7 +34,7 @@
 ### :woman_technologist: Meet Me
 - 👋 Hi, I’m @naz-coder, your TechSiz.
 - I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I’m currently working on some personal projects; Trafap (a product to manage traffic problems) and building a Biography website of the Legendary Afrobeat King, Fela.
+- 🌱 I’m currently working on some personal projects; BrainBoost360(An EdTech project), and Trafap (a product to manage traffic problems).
 - 💞️ I’m looking to collaborate on any interesting Projects, Roles, Bug Fixes, as a Tech Instructor, and Gigs that would have me racking my brain and blowing 🤯 your mind.
 - 🔗 Ubuntu! I like to connect with you. Check above for my Social pages 💜💡
 - 📫 How to reach me <a href="mailto:nazanajemba@gmail.com/">
